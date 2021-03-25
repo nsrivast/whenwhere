@@ -52,7 +52,7 @@ pyshp==1.2.12
 PySocks==1.6.7
 python-dateutil==2.7.2
 pytz==2018.3
-PyYAML==3.13
+PyYAML==5.4
 requests==2.21.0
 requests-toolbelt==0.8.0
 ruamel-yaml==0.15.35
