@@ -38,7 +38,7 @@ MarkupSafe==1.0
 matplotlib==2.2.2
 mccabe==0.6.1
 Naked==0.1.31
-numpy==1.14.2
+numpy==1.22.0
 path-and-address==2.0.1
 pycodestyle==2.4.0
 pycosat==0.6.3
